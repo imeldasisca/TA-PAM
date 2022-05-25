@@ -10,6 +10,12 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.TAPAM">
         <activity
+            android:name=".register_activity"
+            android:exported="false" />
+        <activity
+            android:name=".login_activity"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
