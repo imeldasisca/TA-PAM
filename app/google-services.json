@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "565947641768",
+    "project_id": "ta-pam",
+    "storage_bucket": "ta-pam.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:565947641768:android:c7b40f767156a3ca85779d",
+        "android_client_info": {
+          "package_name": "com.example.ta_pam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "565947641768-9a38bhqltkds64le7892ndp0p2kstdkm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ta_pam",
+            "certificate_hash": "6783ce551dd49a5fd109d04964c10ff4c6ed02db"
+          }
+        },
+        {
+          "client_id": "565947641768-v83dv1d0473m0kqq8ck6u0leuapmn46k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8UXCyn-YWpmsRmDkcZU5lOm1vrgyJ4RM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "565947641768-v83dv1d0473m0kqq8ck6u0leuapmn46k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
